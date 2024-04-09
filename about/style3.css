@@ -598,6 +598,7 @@ table{
      }
      .v-class-resp{
          opacity: 0;
+     display: none;
      }
      .logo2{
          display: block;
